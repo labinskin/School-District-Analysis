@@ -15,7 +15,7 @@ The school board has notified Maria and her supervisor that the `students_comple
 - Original
 - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20School%20Summary.png)
 - Updated
-- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20School%20Summary.png)
+- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20School%20Summary%202.png)
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Original
 - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Top%20and%20Bottom%20Five%20DataFrames.png)
