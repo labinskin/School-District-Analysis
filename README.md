@@ -8,48 +8,48 @@ The school board has notified Maria and her supervisor that the `students_comple
 
 - How is the district summary affected?
 - Original
-- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20District%20Summary.png)
+![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20District%20Summary.png)
 - Updated
-- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20District%20Summary.png)
+![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20District%20Summary.png)
 - As indicated by the two DataFrames in comparison, the updated DataFrame indicates that the removal of the scores lowers the overall average math score, the percent passing math, and the percent passing reading, and the overall passing scores slightly, ranging from .1 percent to .3 percent.
 - How is the school summary affected?
 - Original
-- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20School%20Summary.png)
+![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20School%20Summary.png)
 - Updated
-- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20School%20Summary%202.png)
+![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20School%20Summary%202.png)
 - The only change in the school summary, as indicated by comparing the two DataFrames, is the slight decrease in all categories for Thomas High School.
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - Original
-- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Top%20and%20Bottom%20Five%20DataFrames.png)
+![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Top%20and%20Bottom%20Five%20DataFrames.png)
 - Updated
-- ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Top%20and%20Bottom%20Five%20DataFrames.png)
+![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Top%20and%20Bottom%20Five%20DataFrames.png)
 - Thomas High School does not drop in the ranking of the High Performing Schools. They remain second. However, rather than having a .349 point lead over Griffin High School. They have only a .031 point lead over Griffin. The lost scores make the race for second much closer than before and makes second through fifth, almost even, with Cabrera High School being a clear .704 ahead.
 - How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   - Original
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Math%20Scores%20by%20Grade.png)
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Reading%20Scores%20by%20Grade.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Math%20Scores%20by%20Grade.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Reading%20Scores%20by%20Grade.png)
   - Updated
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Math%20Scores%20by%20Grade.png)
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Reading%20Scores%20by%20Grade.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Math%20Scores%20by%20Grade.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Reading%20Scores%20by%20Grade.png)
   - There are no major changes to report here, outside of Thomas High School having a NaN for their 9th grade scores. The scores of their other grades and all other schools remains the same.
   - Scores by school spending
   - Original
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Scores%20by%20Spending.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Scores%20by%20Spending.png)
   - Updated
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Scores%20by%20School%20Spending.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Scores%20by%20School%20Spending.png)
   - No changes in the scores for school spending. 
   - Scores by school size
   - Original
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Scores%20by%20Size.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Scores%20by%20Size.png)
   - Updated
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Scores%20by%20Size.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Scores%20by%20Size.png)
   - No changes in the scores for school size.
   - Scores by school type
   - Original
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Scores%20by%20Type.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Original%20Scores%20by%20Type.png)
   - Updated
-  - ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Scores%20by%20Type.png)
+  ![](https://github.com/labinskin/School-District-Analysis/blob/main/Resources/Updated%20Scores%20by%20Type.png)
   - No changes in the scores for school type.
 
 ##### Summary
